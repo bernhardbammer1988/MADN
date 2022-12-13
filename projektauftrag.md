@@ -1,4 +1,4 @@
-# Projekt: Neuer Fileserver
+# Projekt: MADN - Mensch ärgere dich nicht
 
 ## Ausgangssituation
 
