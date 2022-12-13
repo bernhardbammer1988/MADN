@@ -59,9 +59,9 @@ Ein Brettspiel auf Basis von "Mensch ärgere dich nicht" soll erstellt werden, d
 ## Kosten
 
 - Es sollen durch dieses Projekt keine zusätzlichen Kosten entstehen. 
-  **Gesamt: 0,00 €**
 
 Verwendete Werkzeuge: PC mit Visual Studio, GIT und Internetzugang.
+
 Verwendete Technologien: C#, WPF
 
 ---
